@@ -1,0 +1,13 @@
+{
+  "name": "device-location-map-app",
+  "version": "3.0.0",
+  "description": "Device location map with nearby messaging and an AI nearby places assistant.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
